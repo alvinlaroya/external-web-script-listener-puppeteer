@@ -1,0 +1,14 @@
+{
+  "name": "external-web-js-function-listener-puppeteer",
+  "version": "1.0.0",
+  "description": "A web external js script listener using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Laroya",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.15.0"
+  }
+}
